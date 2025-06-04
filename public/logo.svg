@@ -1,0 +1,49 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Neural network nodes -->
+  <circle cx="30" cy="30" r="6" fill="#e5d049" fill-opacity="0.9"/>
+  <circle cx="50" cy="17" r="4" fill="#e5d049" fill-opacity="0.8"/>
+  <circle cx="50" cy="43" r="4" fill="#e5d049" fill-opacity="0.8"/>
+  <circle cx="70" cy="30" r="5" fill="#e5d049" fill-opacity="0.9"/>
+  
+  <!-- Neural network connections -->
+  <line x1="30" y1="30" x2="50" y2="17" stroke="#253943" stroke-width="1.5" stroke-opacity="0.7"/>
+  <line x1="30" y1="30" x2="50" y2="43" stroke="#253943" stroke-width="1.5" stroke-opacity="0.7"/>
+  <line x1="50" y1="17" x2="70" y2="30" stroke="#253943" stroke-width="1.5" stroke-opacity="0.7"/>
+  <line x1="50" y1="43" x2="70" y2="30" stroke="#253943" stroke-width="1.5" stroke-opacity="0.7"/>
+  
+  <!-- Text -->
+  <text x="85" y="30" font-family="Arial, sans-serif" font-weight="700" font-size="16" fill="#253943" fill-opacity="0.9">AI RESEARCH LAB</text>
+  <text x="85" y="45" font-family="Arial, sans-serif" font-weight="400" font-size="10" fill="#253943" fill-opacity="0.8">PIONEERING THE FUTURE</text>
+  
+  <!-- Dark mode adjustments with JS -->
+  <script type="text/javascript">
+    <![CDATA[
+    (function() {
+      function updateColors() {
+        const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const textElements = document.querySelectorAll('text');
+        const circles = document.querySelectorAll('circle');
+        const lines = document.querySelectorAll('line');
+        
+        textElements.forEach(text => {
+          text.setAttribute('fill', isDark ? '#ede8d9' : '#253943');
+        });
+        
+        circles.forEach(circle => {
+          circle.setAttribute('fill', isDark ? '#e5d049' : '#e5d049');
+        });
+        
+        lines.forEach(line => {
+          line.setAttribute('stroke', isDark ? '#ede8d9' : '#253943');
+        });
+      }
+      
+      updateColors();
+      
+      if (window.matchMedia) {
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateColors);
+      }
+    })();
+    ]]>
+  </script>
+</svg>

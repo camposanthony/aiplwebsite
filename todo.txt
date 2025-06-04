@@ -1,0 +1,140 @@
+## Description
+
+Inspo:
+
+- https://cohere.com/research
+- https://meditation.mgh.harvard.edu/
+
+Brand Assets located in Canva (follow them):
+
+https://www.canva.com/brand/kAGU91xAc68
+
+- *"Explore Our Lab"* (scroll cue along with the shortcuts to different parts of the page)
+    - Shortcuts - clicking on the section labels will bring you down the webpage to the that specific section via a scrolling animation. In this order:
+        - About Us | Projects | Publications | Join Us | Team
+
+# Content and Styling within Sections:
+
+Hero Inspiration (without header)
+
+![Screenshot 2025-02-02 at 10.53.44 PM.png](attachment:f6f6f181-8f80-403c-85ed-844f10fcc4f7:Screenshot_2025-02-02_at_10.53.44_PM.png)
+
+Instead of the image design on the right let’s use the following design that only covers half the screen (don’t make it a flat cutoff, try something smoother):
+
+- https://codepen.io/jaredstanley/pen/RwywQzG
+
+For the text:
+
+“AI Perception Lab
+
+Engineering adaptive AI perception through human-machine-environment synthesis—enabling ethical autonomy in intelligent infrastructures and human-machine collaboration.”
+
+## MORE ABOUT THE LAB (there is no need for header for this)
+
+Design principles:
+
+1. **Consistency**: Have the interactive noise element from the hero move from the right side of the screen slowly to the left as you are scrolling down to this section. The point is that once you are fully viewing this section there is enough space on the right for a bunch of text elements to be displayed.
+2. **Progressive Disclosure**: Tiered information hierarchy with expandable details
+3. **Responsive Motion**: Scroll-triggered animations synced with user reading patterns
+4. **Sticky Transitions**: Smooth scroll into Projects’ sticky panels
+
+Have there be four sections in this order:
+
+1.
+
+**The Problem: Closed Doors, Narrow Paths**
+
+Traditional research labs often exclude students through rigid admissions, hyper-specialized focuses, and opaque selection criteria—leaving many unsure how to begin or pivot. This exclusivity stifles exploration:
+
+- **Narrow scope**: Overly specialized projects limit interdisciplinary growth
+- **Access barriers**: Fixed application cycles and GPA cutoffs exclude self-motivated learners
+- **Uncertain fit**: Students hesitate to commit without testing diverse research approaches
+1.
+
+**Open Exploration**
+
+*Your Research, Your Trajectory*
+
+- **Continuous Intake**: Join anytime—no rigid deadlines or semesters.
+- **Diverse Focus Areas**: Contribute to ongoing AI perception projects or propose your own novel ideas.
+- **Purpose-Driven Impact**: Prioritize meaningful innovation and collaboration over sheer publication volume.
+1.
+
+**Mentorship**
+
+*Guidance Tailored to You*
+
+- **Accessible Experts**: Consult mentors actively engaged in both academia and industry.
+- **Collaborative Support**: Peer and mentor-reviewed work, cross-project workshops, and open lab resources.
+- **Skill Development**: Gain expertise through collaborative coding standards and hands-on learning opportunities.
+1.
+
+**Structured Autonomy**
+
+*Progress through collaboration and contribution*
+
+Your journey in the lab follows a tiered roadmap, exposing you to the full research lifecycle:
+
+- **New Member**: Immerse yourself in lab culture and develop foundational skills.
+- **Active Member**: Contribute to projects, refine your expertise, and collaborate with peers.
+- **Mentor**: Guide others while deepening your technical and leadership abilities.
+- **Project Lead**: Oversee research initiatives, manage resources, and drive innovation.
+
+While research often involves independent work, our lab fosters a collaborative environment where consultation, discussion, and teamwork are always encouraged. Your success is driven by your intrinsic motivation and commitment to meaningful contributions surrounded by those seeking to do the same. 
+
+## Projects
+
+Transition from the noise to use the following sticky styling for two panels representing the two projects.
+
+- https://webflow.com/made-in-webflow/website/tr-scroll-toggle
+
+Have this be the short descriptions for the projects.
+
+Two Projects and the potential of pitching:
+
+1.
+
+Title: CausalVision
+
+Text: Advancing semantic segmentation through causal inference and knowledge graphs to improve interpretability and robustness in image understanding, moving beyond correlation to model object interactions and contextual dependencies.
+
+2.
+
+Title: NLP
+
+Text: Developing uncertainty-aware dialogue systems using probabilistic modeling and knowledge graphs to enable adaptive, context-sensitive conversations that reconcile ambiguity with user-specific needs.
+
+3.
+
+Title: Propose Research
+
+Text: Inspired by a different direction in AI perception? Share your vision and lead your own project with the support of our lab's resources and mentorship.
+
+## Publications
+
+Coming soon!!!
+
+## Join Us
+
+1. **Access the AI Club Notion**
+    - Join Northeastern’s AI Club Notion workspace https://www.notion.so/invite/ba441204434aca1a59ff22cb546b93b1feac30b4.
+2. **Complete the Membership Access Form**
+    - Fill out the form available on the Notion homepage to apply.
+3. **Request Lab Teamspace Access**
+    - Submit a request to join the **AI Perception Lab Teamspace** through Notion. Detailed instructions are available on the Notion in case of confusion.
+4. **Await Approval**
+    - Your request will be reviewed within 3 business days.
+
+## Team
+
+Have a core team with Alexzander Sansiveri (Lab Lead) and Anthony Campos (Operations Manager). Decide how best to do this.
+
+Advisor: Dr. Ennio Mingolla
+
+Have a collaborators section:
+
+Mert Inan, Ian Steenstra, Girik Malik
+
+Active Members:
+
+N/A for now
